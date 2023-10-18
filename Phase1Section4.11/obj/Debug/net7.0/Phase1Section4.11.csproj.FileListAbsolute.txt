@@ -1,0 +1,14 @@
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.GeneratedMSBuildEditorConfig.editorconfig
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.AssemblyInfoInputs.cache
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.AssemblyInfo.cs
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.csproj.CoreCompileInputs.cache
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\bin\Debug\net7.0\Phase1Section4.11.exe
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\bin\Debug\net7.0\Phase1Section4.11.deps.json
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\bin\Debug\net7.0\Phase1Section4.11.runtimeconfig.json
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\bin\Debug\net7.0\Phase1Section4.11.dll
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\bin\Debug\net7.0\Phase1Section4.11.pdb
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.dll
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\refint\Phase1Section4.11.dll
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.pdb
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\Phase1Section4.11.genruntimeconfig.cache
+M:\Assignments\Assignment16-oct\Phase1Section4.11\Phase1Section4.11\obj\Debug\net7.0\ref\Phase1Section4.11.dll
